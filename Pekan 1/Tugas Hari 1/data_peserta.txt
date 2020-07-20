@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Fajar Ahmadi
+2. Email: fajar.ahmadi@students.amikom.ac.id
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab: https://github.com/FajarAhmadi
+5. Akun Telegram: https://t.me/fajrID
